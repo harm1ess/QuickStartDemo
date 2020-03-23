@@ -5,3 +5,5 @@ This is a Markdown file sdfsdf
 * they are very useful
 
 Cool, there is a Preview of the Markdown file
+
+Adding .gitignore and committing changes.
